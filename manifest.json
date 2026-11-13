@@ -1,0 +1,38 @@
+{
+  "id": "/",
+  "name": "We Can Do Devil",
+  "short_name": "WeCanDoDevil",
+  "description": "Landscape Android platformer with 30 tricky levels, touch controls, and instant respawns.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#14161d",
+  "theme_color": "#14161d",
+  "categories": ["games", "arcade", "entertainment"],
+  "iarc_rating_id": "",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
